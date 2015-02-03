@@ -1,0 +1,28 @@
+{
+  "name": "gitbook-plugin-appcelerator",
+  "description": "A GitBook plugin for Appcelerator",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": "*"
+  },
+  "scripts": {},
+  "homepage": "https://github.com/tzmartin/gitbook-plugin-appcelerator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tzmartin/gitbook-plugin-appcelerator"
+  },
+  "author": "Appcelerator Inc.",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/tzmartin/gitbook-plugin-appcelerator/issues"
+  },
+  "contributors": [
+    {
+      "name": "TZ Martin",
+      "email": "terryzmartin@gmail.com"
+    }
+  ]
+}
